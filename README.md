@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi there! I'm currently working as a full-stack software engineer intern at Advanced Electrophoresis Solutions and a first-year Electrical Engineering student at the University of Waterloo.<br><br>🚀 At the moment, I'm hands-on with the Nvidia Jetson AGX Xavier AI Development Board, leveraging OpenCV to gain insights into embedded systems, visual odometry, sensor fusion, localization and mapping, obstacle detection, and path-planning algorithms.<br><br>🔗 Feel free to reach out to connect on linkedln or send me an email at royluo05@gmail.com. To see more of my projects on my website at: 
+# 💫 Hey Devs! 👋
+I'm currently working as a full-stack software engineer intern at Advanced Electrophoresis Solutions and a first-year Electrical Engineering student at the University of Waterloo.<br><br>🚀 At the moment, I'm hands-on with the Nvidia Jetson AGX Xavier AI Development Board, leveraging OpenCV to gain insights into embedded systems, visual odometry, sensor fusion, localization and mapping, obstacle detection, and path-planning algorithms.<br><br>🔗 Feel free to reach out to connect on linkedln or send me an email at royluo05@gmail.com. To see more of my projects on my website at: (Website in progress)
 
 
 ## 🌐 Socials:
@@ -10,6 +10,8 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ryouol&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
----
 [![](https://visitcount.itsvg.in/api?id=ryouol&icon=2&color=1)](https://visitcount.itsvg.in)
+
+---
+
 
