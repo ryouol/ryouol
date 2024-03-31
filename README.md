@@ -1,5 +1,5 @@
 # 💫 Hey Devs! 👋
-I'm currently working as a full-stack software engineer intern at Advanced Electrophoresis Solutions and a first-year Electrical Engineering student at the University of Waterloo.<br><br>🚀 At the moment, I'm hands-on with the Nvidia Jetson AGX Xavier AI Development Board, leveraging OpenCV to gain insights into embedded systems, visual odometry, sensor fusion, localization and mapping, obstacle detection, and path-planning algorithms.<br><br>🔗 Feel free to reach out to connect on linkedln or send me an email at royluo05@gmail.com. To see more of my projects on my website at: (Website in progress)
+I'm currently working as a full-stack software engineer intern at Advanced Electrophoresis Solutions and a first-year Electrical Engineering student at the University of Waterloo.<br><br>🚀 At the moment, I'm hands-on with the Nvidia Jetson AGX Xavier AI Development Board, leveraging OpenCV to gain insights into embedded systems, visual odometry, sensor fusion, localization and mapping, obstacle detection, and path-planning algorithms.<br><br>🔗 Feel free to reach out to connect on linkedln or send me an email at royluo05@gmail.com. To see more of my projects on my website at: https://roy-luo.netlify.app/
 
 
 ## 🌐 Socials:
