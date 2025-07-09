@@ -1,5 +1,4 @@
-# Hey! 👋
-I'm an EE student at the University of Waterloo. 
+I'm an EE student at the University of Waterloo. prev 2x Tesla working on Agentic AI, ML, and concurrent backend Systems. 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ryouol&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
