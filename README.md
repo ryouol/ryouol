@@ -1,9 +1,6 @@
-I'm an EE student at the University of Waterloo. prev 2x Tesla working on Agentic AI, ML (NLP), and concurrent backend systems. 
+EE @ UWaterloo. I build LLM systems, mostly into post-training and inference engineering right now.
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ryouol&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+- Unrender: post-trained Qwen3-VL with LoRA for chart extraction, load-tested vLLM serving on H100
+- Loupe: profiling MLX / llama.cpp inference on Apple Silicon
 
-[![](https://visitcount.itsvg.in/api?id=ryouol&icon=2&color=1)](https://visitcount.itsvg.in)
-
----
-
-
+Prev: Tesla (2x), Squint.ai (2x), Aditum Bio(Biotech VC)
